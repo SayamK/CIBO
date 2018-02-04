@@ -1,0 +1,8 @@
+[21-Jul-2017 09:02:55 America/New_York] PHP Warning:  move_uploaded_file(/feather.php): failed to open stream: Permission denied in /home/sayaitoe/public_html/cibo/app/adminpanel/images/hibz.php on line 230
+[21-Jul-2017 09:02:55 America/New_York] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpW6KxQG' to '/feather.php' in /home/sayaitoe/public_html/cibo/app/adminpanel/images/hibz.php on line 230
+[21-Jul-2017 09:02:56 America/New_York] PHP Warning:  move_uploaded_file(/feather.php): failed to open stream: Permission denied in /home/sayaitoe/public_html/cibo/app/adminpanel/images/hibz.php on line 230
+[21-Jul-2017 09:02:56 America/New_York] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpjGdEJH' to '/feather.php' in /home/sayaitoe/public_html/cibo/app/adminpanel/images/hibz.php on line 230
+[21-Jul-2017 09:03:21 America/New_York] PHP Warning:  move_uploaded_file(/feather.php): failed to open stream: Permission denied in /home/sayaitoe/public_html/cibo/app/adminpanel/images/hibz.php on line 230
+[21-Jul-2017 09:03:21 America/New_York] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpy3I0NV' to '/feather.php' in /home/sayaitoe/public_html/cibo/app/adminpanel/images/hibz.php on line 230
+[21-Jul-2017 09:08:49 America/New_York] PHP Warning:  move_uploaded_file(/b374k.php): failed to open stream: Permission denied in /home/sayaitoe/public_html/cibo/app/adminpanel/images/hibz.php on line 230
+[21-Jul-2017 09:08:49 America/New_York] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpD1SxUA' to '/b374k.php' in /home/sayaitoe/public_html/cibo/app/adminpanel/images/hibz.php on line 230
