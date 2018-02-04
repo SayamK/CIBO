@@ -1,8 +1,8 @@
 <?php
-	$username = "sayaitoe_admin";
-	$password = "buzodog115";
+	$username = **Username**;
+	$password = **Password**;
 	$hostname = "localhost";
-	$database = "sayaitoe_cibo";
+	$database = **DB_Name**;
 
 	ini_set('session.gc_maxlifetime', 3600*3);
 	//Connect to DB.
