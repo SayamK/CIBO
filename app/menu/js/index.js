@@ -251,7 +251,7 @@ var curTotal = 0;
 			initSearch();
 			initFilters();
 			$.ajax({
-			 url:"http://sayamkanwar.me/cibo/adminpanel/scripts/getDishData.php",
+			 url:"http://sayamkanwar.com/cibo/adminpanel/scripts/getDishData.php",
 			 dataType: 'jsonp', // Notice! JSONP <-- P (lowercase)
 			 success:function(json){
 			     console.log(json);
